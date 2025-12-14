@@ -11,14 +11,14 @@ Simple Note is designed as an offline-first application that ensures users can c
 ### Complete Feature List
 The application provides the following core features:
 
-- ✅ **User Registration and Login**: Complete authentication system with registration and login forms
-- ✅ **View List of Notes**: Paginated note list with efficient loading and display
-- ✅ **Search Within Notes**: Real-time search functionality across note titles and content
-- ✅ **View Note Details**: Dedicated screen for viewing individual note details
-- ✅ **Manage Notes**: Full CRUD operations (Create, Read, Update, Delete) for notes
-- ✅ **View Profile and Log Out**: User profile management with secure logout functionality
-- ✅ **Authentication Token Refresh**: Automatic JWT token refresh mechanism using refresh tokens
-- ✅ **Offline-First Functionality**: Complete offline support using local Room database
+- **User Registration and Login**: Complete authentication system with registration and login forms
+- **View List of Notes**: Paginated note list with efficient loading and display
+- **Search Within Notes**: Real-time search functionality across note titles and content
+- **View Note Details**: Dedicated screen for viewing individual note details
+- **Manage Notes**: Full CRUD operations (Create, Read, Update, Delete) for notes
+- **View Profile and Log Out**: User profile management with secure logout functionality
+- **Authentication Token Refresh**: Automatic JWT token refresh mechanism using refresh tokens
+- **Offline-First Functionality**: Complete offline support using local Room database
 
 ### Core Functionality
 - **Note Management**: Complete CRUD operations for notes (Create, Read, Update, Delete)
